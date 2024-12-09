@@ -33,6 +33,8 @@ class Cat {
         return breed;
     }
 
+//всем првиет
+
     // Геттер для пола
     public String getGender() {
         return gender;
